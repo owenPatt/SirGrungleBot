@@ -1,5 +1,7 @@
 # SirGrungleBot
-This is the code that is related to a discord bot that I made. His name is SirGrungle!
+This is the code that is related to a discord bot that I made. His name is SirGrungle! 
+
+This bot is meant to be a DND helper. He knows many commands which help organize/run a DND game! 
 
 # Commands
 ### Roll
